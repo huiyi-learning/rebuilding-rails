@@ -4,6 +4,10 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+## Build
+gem build rulers.gemspec
+gem install rulers-x.x.x.gem
+
 ## Installation
 
 Add this line to your application's Gemfile:
